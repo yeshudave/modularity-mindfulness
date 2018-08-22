@@ -50,7 +50,7 @@ font-family: "Noto Sans Japanese", sans-serif;
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
 - Final screenshots in the “screenshots” folder.
-- [**Watch this video to see how it interacts.**](https://youtu.be/kN_E4u682hc)
+- [**Watch this video to see how it interacts.**](https://youtu.be/0LRbsoyvgpY)
 
 ---
 
