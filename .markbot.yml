@@ -17,6 +17,10 @@ inherit:
   - google-fonts
   - screenshots-all
   - nav-hover
+  - accessibility
+  - nav-focus
+  - aria-landmarks
+  - main-link-focus
 
 html:
   - path: 'index.html'
@@ -45,6 +49,7 @@ css:
     search:
       - '"Noto Sans Japanese"'
       - ':hover'
+      - '#000'
       - '#e2e2e2'
       - '#005e76'
       - '#0084a6'

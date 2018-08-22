@@ -20,9 +20,10 @@ deliverables: '1 HTML file, 4 CSS files, images'
 ## Details
 
 - *Typefaces:* `Noto Sans`, `Noto Sans Japanese` (see below…)
-- *Colours:* `#e2e2e2`, `#8bc9d9`, `#0084a6`, `#005e76`
+- *Colours:* `#000`, #e2e2e2`, `#8bc9d9`, `#0084a6`, `#005e76`
 - *Expected class names:* `.btn`, `.btn-ghost`
 - Include a hover state on the main navigation links & the buttons.
+- Include all relevant accessibility features
 - *Gridifier settings:* defaults
 - *Typografier settings:* defaults
 - *Modulifier settings:* select all
