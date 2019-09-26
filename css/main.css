@@ -1,3 +1,51 @@
 html {
   font-family: "Noto Sans", sans-serif;
 }
+
+.btn-ghost {
+  color: #005e76;
+  border-color: #8bc9d9;
+  border-width: .1em;
+}
+
+.btn-ghost:hover {
+  background-color: #8bc9d9;
+  border-color: #005e76;
+  color: #000;
+}
+
+.section-border {
+  border-bottom: .1em solid #e2e2e2;
+  border-top: .1em solid #e2e2e2;
+}
+
+.jap-text {
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+.nav-style a {
+  color: #005e76;
+  border-bottom: .1em solid #8bc9d9;
+  text-decoration: none;
+}
+
+.nav-style a:hover {
+  border-color: #0084a6;
+}
+
+footer {
+  border-top: .1em solid #e2e2e2;
+  color: #666;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .nav-styling {
+    text-align: right;
+  }
+
+  .logo {
+    text-align: left;
+  }
+
+}
